@@ -48,5 +48,55 @@ The PowerBI dashboards visualize key metrics, trends, and insights derived from 
 - **Customer Acquisition Trends**
 - **Claims Analysis**
 - **Risk Factor Visualizations**
-- **
+- 
+
+![Sample Dashboard](link_to_image_or_screenshot)
+
+## 3. Installation Instructions
+
+To set up the project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone (https://github.com/ThobMvuni/Powerbi-dashboards/)
+   cd african-insurance-analysis
+
+    Install dependencies: Make sure you have PowerBI Desktop installed. Download it from here.
+
+    Open the PowerBI File: Open the .pbix file located in the Dashboards folder in PowerBI Desktop.
+
+    Load the Dataset:
+        Ensure the dataset (CSV or SQL) is properly linked to the dashboard.
+        You can find the sample dataset in the Data folder. If using a local database, configure the connection strings accordingly.
+
+    Explore the Dashboards: After loading the dataset, the PowerBI dashboards will automatically refresh, displaying the key insights.
+
+## 4. Usage
+
+Once the dashboard is set up, use the following features to explore the insights:
+
+    Filter by Demographics: Use the demographic filters to examine trends in different customer segments.
+    Claims Insights: Navigate through claim history and approval rates by applying different timeframes and risk categories.
+    Predictive Insights: Check the predictive analytics section to forecast churn and high-risk claims.
+
+## 5. Contributing
+
+If you would like to contribute to this project, please fork the repository and create a pull request. Ensure that your contributions align with the project's goals and methodology.
+Guidelines:
+
+    Write clear and concise code.
+    Provide thorough documentation for any new features.
+    Respect the project's code of conduct.
+
+## 6. License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 7. Acknowledgements
+
+We would like to thank the following for their contributions:
+
+    [Data Providers]
+    PowerBI Documentation
+
 
